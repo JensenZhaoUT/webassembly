@@ -1,0 +1,11 @@
+{
+  "name": "webassembly",
+  "version": "1.0.0",
+  "description": "learning webaseembly",
+  "main": "server.js",
+  "author": "jensen zhao <jingchengzhao0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
